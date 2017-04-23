@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\scripts\PlayerManager.cs" Line="10" Column="2" />
+      <File FileName="Assets\scripts\shieldDropColliderDetector.cs" Line="44" Column="36" />
+      <File FileName="Assets\scripts\heartDropColliderDetector.cs" Line="46" Column="2" />
+      <File FileName="Assets\scripts\EnemyManager.cs" Line="19" Column="23" />
+      <File FileName="Assets\scripts\spawnship.cs" Line="15" Column="52" />
+      <File FileName="Assets\scripts\GameManager.cs" Line="96" Column="35" />
+      <File FileName="Assets\scripts\WorldColliderDectector.cs" Line="20" Column="22" />
+      <File FileName="Assets\scripts\musicController.cs" Line="19" Column="14" />
+      <File FileName="Assets\scripts\keyManager.cs" Line="32" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
